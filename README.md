@@ -1,7 +1,7 @@
 MaaP - MongoDB as an Admin Platform
 ====
 
-MaaP it's an admin platform for generating administration style interfaces, based on **Node.js** and **MongoDB** stack.          
+MaaP it's an admin platform for generating administration style interfaces, based on **Node.js** and **MongoDB** stack.
 Its purpose is to make it simple for developers to implement interfaces for manage business data with ease, providing a DSL that allows you to define the content of your webpages in minutes.
 
 
